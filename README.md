@@ -1,7 +1,9 @@
 <div align="center">
   <h1 align="center">Hi there I'm Erika 👋</h1>
 </div>
-
+<div align="center">
+  <img src="https://github.com/erikaLeonardo/myimages/blob/main/Banner.png">
+</div>
 ![Aditya Vikram Singh Banner](https://github.com/erikaLeonardo/myimages/blob/main/Banner.png)
 
 

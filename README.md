@@ -14,9 +14,8 @@
 💡 &nbsp;I like to explore and learn new technologies.\
 🎓 &nbsp;I'm currently studying Systems Engineering.\
 🌱 &nbsp;I'm on my way to learn more about Artificial Intelligence and Web Development.\
-✍️ &nbsp;In my free time, I dedicate myself to reading and developing code.\
+✍️ &nbsp;In my free time, I dedicate myself to reading and developing code
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

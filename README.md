@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://github.com/erikaLeonardo/myimages/blob/main/Banner.png" width="1000" height="400">
 </div>
-![Aditya Vikram Singh Banner](https://github.com/erikaLeonardo/myimages/blob/main/Banner.png)
 
 
 

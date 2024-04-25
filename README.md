@@ -41,4 +41,4 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/erikaleonardo)
+Credits: [Erika Amairani Leonardo Arce](https://github.com/erikaleonardo)

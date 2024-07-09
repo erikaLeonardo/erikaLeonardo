@@ -2,7 +2,7 @@
   <h1 align="center">Hi there I'm Erika 👋</h1>
 </div>
 <div align="center">
-  <img src="https://github.com/erikaLeonardo/myimages/blob/main/Erika_Leonardo_Banner.png" width="1000" height="400">
+  <img src="https://github.com/erikaLeonardo/myimages/blob/main/Erika_Leonardo_Banner.png" width="1000" height="300">
 </div>
 
 

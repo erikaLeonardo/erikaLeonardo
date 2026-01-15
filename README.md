@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,django,flask,php,html,css,javascript,react,angular,bootstrap,cs,figma,firebase,kotlin,mysql,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,,php,html,css,javascript,react,bootstrap,cs,figma,mysql,&perline=8)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
